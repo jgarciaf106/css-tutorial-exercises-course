@@ -1,6 +1,11 @@
 body {
 	background: #bdbdbd;
 }
+div {
+	height: 300px;
+	width: 300px;
+	background: url("https://assets.breatheco.de/apis/img/funny/einstein.png") center;
+}
 .rounded {
 	border-radius: 100%;
 }

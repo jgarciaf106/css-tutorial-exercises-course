@@ -1,4 +1,15 @@
 /** Insert your code here **/
+#ulColor {
+	color: red;
+}
+
+.scndOl {
+	background-color: green;
+}
+
+tr:nth-child(2n + 1) {
+	background-color: yellow;
+}
 
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,
